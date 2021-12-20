@@ -1,0 +1,7 @@
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/MiningWithNautiloids
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/MiningWithNautiloids.dll
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/MiningWithNautiloids.deps.json
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/MiningWithNautiloids.runtimeconfig.json
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/MiningWithNautiloids.pdb
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/Newtonsoft.Json.dll
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/publish/PriorityQueue.dll
