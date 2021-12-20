@@ -1,0 +1,17 @@
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/MiningWithNautiloids
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/MiningWithNautiloids.deps.json
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/MiningWithNautiloids.runtimeconfig.json
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/MiningWithNautiloids.runtimeconfig.dev.json
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/MiningWithNautiloids.dll
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/MiningWithNautiloids.pdb
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/PriorityQueue.dll
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.csproj.AssemblyReference.cache
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.AssemblyInfoInputs.cache
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.AssemblyInfo.cs
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.csproj.CoreCompileInputs.cache
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.csproj.CopyComplete
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.dll
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.pdb
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/obj/Release/netcoreapp3.1/MiningWithNautiloids.genruntimeconfig.cache
+/Users/gabeshindnes/Projects/MiningWithNautiloids/MiningWithNautiloids/bin/Release/netcoreapp3.1/Newtonsoft.Json.dll
